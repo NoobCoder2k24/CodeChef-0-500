@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/CodeChef 0Star",
-      "program": "d:/CodeChef 0Star/build/Debug/outDebug",
+      "cwd": "c:/Users/apurv/OneDrive/Desktop/ajdj",
+      "program": "c:/Users/apurv/OneDrive/Desktop/ajdj/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
